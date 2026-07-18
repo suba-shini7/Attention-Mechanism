@@ -356,5 +356,3 @@ https://d2l.ai/
 Built from scratch for educational purposes to understand the internal working of the Attention Mechanism used in Transformer architectures.
 
 ---
-
-## ⭐ If you found this project helpful, consider giving it a star!

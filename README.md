@@ -97,6 +97,9 @@ Word Embeddings
 ## Step 2
 
 Generate Query, Key and Value matrices.
+•  Query = What am I looking for? 
+•  Key = What information do I have? 
+•  Value = Actual information returned.
 
 ```
 Q = X × Wq

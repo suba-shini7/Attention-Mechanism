@@ -168,10 +168,10 @@ Attention-Mechanism/
 ├── requirements.txt
 │
 ├── images/
-│   ├── workflow.png
-│   ├── qkv.png
+│   ├── Workflow.png
+│   ├── Self-attention-output.png
 │   ├── attention_scores.png
-│   ├── softmax.png
+│   ├── Self-attention-output.png
 │   ├── attention_weights.png
 │   └── context_vector.png
 │
@@ -205,7 +205,7 @@ The implementation displays:
 Replace this with your image.
 
 ```markdown
-![Attention Workflow](images/workflow.png)
+![Attention Workflow](images/Workflow.png)
 ```
 
 ---

@@ -204,9 +204,8 @@ The implementation displays:
 
 Replace this with your image.
 
-```markdown
-![Attention Workflow](https://github.com/suba-shini7/Attention-Mechanism/issues/1#issue-4917397225)
-```
+## WorkFlow
+![Screenshot 2023-07-26 223801](https://github.com/suba-shini7/Attention-Mechanism/blob/main/Images/WorkFlow.png)
 
 ---
 

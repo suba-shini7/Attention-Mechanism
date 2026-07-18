@@ -205,7 +205,7 @@ The implementation displays:
 Replace this with your image.
 
 ```markdown
-![Attention Workflow](Images/Workflow.png)
+![Attention Workflow](Images/WorkFlow.png)
 ```
 
 ---

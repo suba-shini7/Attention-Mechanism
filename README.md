@@ -205,7 +205,7 @@ The implementation displays:
 Replace this with your image.
 
 ```markdown
-![Attention Workflow](Images/WorkFlow.png)
+![Attention Workflow](https://github.com/suba-shini7/Attention-Mechanism/issues/1#issue-4917397225)
 ```
 
 ---

@@ -1,0 +1,9 @@
+# ==========================================
+# Attention Mechanism from Scratch
+# Requirements
+# ==========================================
+
+numpy>=1.24.0
+matplotlib>=3.8.0
+jupyter>=1.0.0
+ipykernel>=6.29.0

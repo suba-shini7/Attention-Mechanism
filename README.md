@@ -213,10 +213,10 @@ Replace this with your image.
 ![Attention Scores](https://github.com/suba-shini7/Attention-Mechanism/blob/main/Images/Transformer_self_attention_score.png)
 
 ## Softmax
+![Attention Scores](https://github.com/suba-shini7/Attention-Mechanism/blob/main/Images/Self-attention_softmax.png)
 
-```markdown
-![Context Vector](https://github.com/suba-shini7/Attention-Mechanism/blob/main/Images/Self-attention_softmax.png)
-```
+## Context Vector
+![Attention Scores](https://github.com/suba-shini7/Attention-Mechanism/blob/main/Images/Self-attention-output.png)
 
 ---
 

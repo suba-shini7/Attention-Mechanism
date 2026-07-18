@@ -66,9 +66,6 @@ Output Context Vector
 
 The Scaled Dot-Product Attention is computed as:
 
-\[
-Attention(Q,K,V)=Softmax\left(\frac{QK^T}{\sqrt{d_k}}\right)V
-\]
 
 Where:
 
@@ -115,11 +112,7 @@ V = X × Wv
 
 Compute Attention Scores.
 
-```
-Scores = Q × Kᵀ
-```
-
----
+![Attention Scores](https://github.com/suba-shini7/Attention-Mechanism/blob/main/Images/Softmax%20Formula.png)
 
 ## Step 4
 
@@ -211,50 +204,18 @@ Replace this with your image.
 
 # 📸 Sample Outputs
 
-## Query Matrix
+## Weight Matrix
 
-```markdown
-![Query Matrix](images/query_matrix.png)
-```
-
----
-
-## Key Matrix
-
-```markdown
-![Key Matrix](images/key_matrix.png)
-```
-
----
-
-## Value Matrix
-
-```markdown
-![Value Matrix](images/value_matrix.png)
-```
-
----
+![Weight Matrix](https://github.com/suba-shini7/Attention-Mechanism/blob/main/Images/Weight.png)
 
 ## Attention Scores
 
-```markdown
-![Attention Scores](images/attention_scores.png)
-```
+![Attention Scores](https://github.com/suba-shini7/Attention-Mechanism/blob/main/Images/Transformer_self_attention_score.png)
 
----
-
-## Attention Weights
+## Softmax
 
 ```markdown
-![Attention Weights](images/attention_weights.png)
-```
-
----
-
-## Context Vector
-
-```markdown
-![Context Vector](images/context_vector.png)
+![Context Vector](https://github.com/suba-shini7/Attention-Mechanism/blob/main/Images/Self-attention_softmax.png)
 ```
 
 ---
